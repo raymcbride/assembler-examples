@@ -5,7 +5,7 @@ Requires Borland TASM 8086 Assembler
 ##Run
 
     tasm <asm_filename>.asm
-    tlink <obj_filename>.obj
+    bcc32 <cpp_filename>.cpp <obj_filename>.obj
 
 Now execute
 
