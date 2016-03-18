@@ -2,11 +2,11 @@
 
 Requires Borland TASM 8086 Assembler and Borland C++ Compilerr
 
-##Run
+##Compile
 
     tasm <asm_filename>.asm
     bcc32 <cpp_filename>.cpp <obj_filename>.obj
 
-Now execute
+##Run
 
     <exe_filename>.exe
