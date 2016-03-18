@@ -1,6 +1,6 @@
 #assembler-examples
 
-Requires Borland TASM 8086 Assembler
+Requires Borland TASM 8086 Assembler and Borland C++ Compilerr
 
 ##Run
 
